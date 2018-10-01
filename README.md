@@ -4,6 +4,7 @@ Computer Vision Test Master List
 This is a list of tests on Computer Vision, based on open source tutorials
 
 Basics OpenCV Tutorial: https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/
+
 Face detection with OpenCV and deep learning: https://www.pyimagesearch.com/2018/02/26/face-detection-with-opencv-and-deep-learning/
 Histogram of Oriented Gradients and Object Detection: https://www.pyimagesearch.com/2014/11/10/histogram-oriented-gradients-object-detection/
 Mobile Document Scanner with OpenCV: https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/
