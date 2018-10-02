@@ -1,7 +1,5 @@
 # R-D-CV-Tests
-Computer Vision Test Master List
-
-This is a list of tests on Computer Vision, based on PyImageSearch open source tutorials
+Master List of tests, based on PyImageSearch open source tutorials
 
 Basics OpenCV Tutorial: https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/
 
